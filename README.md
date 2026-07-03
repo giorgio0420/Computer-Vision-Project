@@ -1,5 +1,7 @@
 # 🦷 Dental X-ray Synthetic Generation & Segmentation
 
+![Dataset preview — images and masks](gif.gif)
+
 > **Authors:** Giorgio De Santis · Roberto Passante  
 > **Course:** Computer Vision — University Project  
 > **Stack:** Python · PyTorch · Google Colab · Pix2Pix GAN · U-Net · TransUNet
@@ -17,7 +19,6 @@ We address it with a two-stage deep learning pipeline:
 
 The goal is to reduce the **domain gap** between real and synthetic images, and demonstrate that synthetic data can effectively boost segmentation performance.
 
-![Dataset preview — images and masks](gif.gif)
 
 ---
 
